@@ -1,0 +1,13 @@
+{
+  "tabs":{"Store":"/store","Mac":"/mac","iPad":"/ipad","iPhone":"/iphone","Watch":"/watch","AirPods":"airepods","TV & Home":"/tv_&_home","Entertainment":"/entertainment","Accessories":"accessories","Support":"/support"},
+  "cashBack":"Get iPhone 16 Pro from just ₹9575.00/mo. for 12 mo. with instant cashback◊ and No Cost EMI.",
+  "iphoneWelcomeSection":{
+    "heading":["iPhone 16 Pro","Built for Apple Intelligence."],
+    "video":"https://www.apple.com/105/media/us/iphone-16-pro/2024/3616fe73-ad74-4b7f-8b93-a4c0f0b6a2d7/anim/hero/medium.mp4",
+    "imageH":"https://www.apple.com/v/iphone-16-pro/c/images/overview/welcome/hero_endframe__b3cjfkquc2s2_small.jpg",
+    "imageV":"https://www.apple.com/v/iphone-16-pro/c/images/overview/welcome/hero_endframe__b3cjfkquc2s2_xsmall.jpg",
+
+    "offer":["From ₹119900.00","Apple Intelligence available now is US English"]
+  }
+
+}
